@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YM3rGashSYOPO5W8FRva+y5zbs1JzDw3YPYIp9gnihN+jGyX4O4UTRlrahJsXVGOAY39BmgXdCcQQeRL0sEvtg==",
+  "success": true,
+  "projectFilePath": "C:\\Real Documents\\Personal Docs\\git\\HelloWorldFS\\HelloWorldFS.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alex\\.nuget\\packages\\fsharp.core\\7.0.0\\fsharp.core.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
