@@ -26,3 +26,9 @@ obj/Debug/net7.0/HelloWorldFS.dll
 obj/Debug/net7.0/HelloWorldFS.pdb
 obj/Debug/net7.0/ref/HelloWorldFS.dll
 obj/Debug/net7.0/refint/HelloWorldFS.dll
+
+.fake
+obj/Debug/net7.0/refint/HelloWorldFS.dll
+obj/Debug/net7.0/ref/HelloWorldFS.dll
+obj/Debug/net7.0/HelloWorldFS.pdb
+obj/Debug/net7.0/HelloWorldFS.dll
